@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8361ce58fec7c84da732d69be2ce711, type: 3}
+  m_Name: Card_Money
+  m_EditorClassIdentifier: 
+  cardName: Money
+  description: Gives 5 Money
+  cardPreview: {fileID: 21300000, guid: e6b661b20f50cb642ab8ad76741d1eab, type: 3}
+  cardBorder: {fileID: 21300000, guid: 67ca510f0c99ab34cae109e8cf7f2002, type: 3}
+  value: 5

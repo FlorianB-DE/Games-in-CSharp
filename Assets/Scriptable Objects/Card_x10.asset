@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0463171fd8ee59448fba4dd802de279, type: 3}
+  m_Name: Card_x10
+  m_EditorClassIdentifier: 
+  cardName: x10
+  description: Spawns the next played Enemy ten times with the same BUFFS! and attributes
+  cardPreview: {fileID: 21300000, guid: 946a8d81d9198ee418adf1ab993448b2, type: 3}
+  cardBorder: {fileID: 21300000, guid: d786f5c5fae07c247910b09674f46da7, type: 3}
+  Script: Enemyx10
